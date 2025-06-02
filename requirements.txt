@@ -1,0 +1,10 @@
+tensorflow>=2.10.0
+numpy>=1.22.0
+opencv-python
+matplotlib
+tk
+
+Optional (if you ever use Streamlit or want cloud/GUI enhancements):
+# streamlit
+# pillow
+# flask
